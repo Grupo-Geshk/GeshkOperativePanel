@@ -1,0 +1,354 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Gio\\source\\repos\\ControlPanelGeshk\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Gio\\source\\repos\\ControlPanelGeshk\\ControlPanelGeshk\\Controllers\\ProjectsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ControlPanelGeshk\\Controllers\\ProjectsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C79A25D-8476-4254-A61A-2851916DB0CD}|ControlPanelGeshk\\ControlPanelGeshk.csproj|c:\\users\\gio\\source\\repos\\controlpanelgeshk\\controlpanelgeshk\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C79A25D-8476-4254-A61A-2851916DB0CD}|ControlPanelGeshk\\ControlPanelGeshk.csproj|solutionrelative:controlpanelgeshk\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C79A25D-8476-4254-A61A-2851916DB0CD}|ControlPanelGeshk\\ControlPanelGeshk.csproj|c:\\users\\gio\\source\\repos\\controlpanelgeshk\\controlpanelgeshk\\dtos\\userdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C79A25D-8476-4254-A61A-2851916DB0CD}|ControlPanelGeshk\\ControlPanelGeshk.csproj|solutionrelative:controlpanelgeshk\\dtos\\userdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C79A25D-8476-4254-A61A-2851916DB0CD}|ControlPanelGeshk\\ControlPanelGeshk.csproj|c:\\users\\gio\\source\\repos\\controlpanelgeshk\\controlpanelgeshk\\dtos\\projectdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C79A25D-8476-4254-A61A-2851916DB0CD}|ControlPanelGeshk\\ControlPanelGeshk.csproj|solutionrelative:controlpanelgeshk\\dtos\\projectdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C79A25D-8476-4254-A61A-2851916DB0CD}|ControlPanelGeshk\\ControlPanelGeshk.csproj|c:\\users\\gio\\source\\repos\\controlpanelgeshk\\controlpanelgeshk\\dtos\\clientdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C79A25D-8476-4254-A61A-2851916DB0CD}|ControlPanelGeshk\\ControlPanelGeshk.csproj|solutionrelative:controlpanelgeshk\\dtos\\clientdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Gio\\source\\repos\\ControlPanelGeshk\\ControlPanelGeshk\\Controllers\\AuditController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ControlPanelGeshk\\Controllers\\AuditController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C79A25D-8476-4254-A61A-2851916DB0CD}|ControlPanelGeshk\\ControlPanelGeshk.csproj|c:\\users\\gio\\source\\repos\\controlpanelgeshk\\controlpanelgeshk\\entities\\quote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C79A25D-8476-4254-A61A-2851916DB0CD}|ControlPanelGeshk\\ControlPanelGeshk.csproj|solutionrelative:controlpanelgeshk\\entities\\quote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Gio\\source\\repos\\ControlPanelGeshk\\ControlPanelGeshk\\Controllers\\SearchController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ControlPanelGeshk\\Controllers\\SearchController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Gio\\source\\repos\\ControlPanelGeshk\\ControlPanelGeshk\\Controllers\\ActivitiesController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ControlPanelGeshk\\Controllers\\ActivitiesController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Gio\\source\\repos\\ControlPanelGeshk\\ControlPanelGeshk\\DTOs\\ActivityAuditSearchDtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ControlPanelGeshk\\DTOs\\ActivityAuditSearchDtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Gio\\source\\repos\\ControlPanelGeshk\\ControlPanelGeshk\\Controllers\\QuotesController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ControlPanelGeshk\\Controllers\\QuotesController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Gio\\source\\repos\\ControlPanelGeshk\\ControlPanelGeshk\\DTOs\\QuoteDtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ControlPanelGeshk\\DTOs\\QuoteDtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Gio\\source\\repos\\ControlPanelGeshk\\ControlPanelGeshk\\Controllers\\EconomicsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ControlPanelGeshk\\Controllers\\EconomicsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Gio\\source\\repos\\ControlPanelGeshk\\ControlPanelGeshk\\DTOs\\EconomicsDtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ControlPanelGeshk\\DTOs\\EconomicsDtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Gio\\source\\repos\\ControlPanelGeshk\\ControlPanelGeshk\\Controllers\\NotesController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ControlPanelGeshk\\Controllers\\NotesController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Gio\\source\\repos\\ControlPanelGeshk\\ControlPanelGeshk\\Controllers\\IssuesController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ControlPanelGeshk\\Controllers\\IssuesController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Gio\\source\\repos\\ControlPanelGeshk\\ControlPanelGeshk\\Controllers\\CredentialsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ControlPanelGeshk\\Controllers\\CredentialsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Gio\\source\\repos\\ControlPanelGeshk\\ControlPanelGeshk\\Controllers\\FinanceController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ControlPanelGeshk\\Controllers\\FinanceController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Gio\\source\\repos\\ControlPanelGeshk\\ControlPanelGeshk\\DTOs\\FinanceDtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ControlPanelGeshk\\DTOs\\FinanceDtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Gio\\source\\repos\\ControlPanelGeshk\\ControlPanelGeshk\\DTOs\\CredentialDtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ControlPanelGeshk\\DTOs\\CredentialDtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1517695089:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\Gio\\source\\repos\\ControlPanelGeshk\\ControlPanelGeshk\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "ControlPanelGeshk\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\Gio\\source\\repos\\ControlPanelGeshk\\ControlPanelGeshk\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "ControlPanelGeshk\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T17:40:26.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserDtos.cs",
+              "DocumentMoniker": "C:\\Users\\Gio\\source\\repos\\ControlPanelGeshk\\ControlPanelGeshk\\DTOs\\UserDtos.cs",
+              "RelativeDocumentMoniker": "ControlPanelGeshk\\DTOs\\UserDtos.cs",
+              "ToolTip": "C:\\Users\\Gio\\source\\repos\\ControlPanelGeshk\\ControlPanelGeshk\\DTOs\\UserDtos.cs",
+              "RelativeToolTip": "ControlPanelGeshk\\DTOs\\UserDtos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T17:40:10.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClientDtos.cs",
+              "DocumentMoniker": "C:\\Users\\Gio\\source\\repos\\ControlPanelGeshk\\ControlPanelGeshk\\DTOs\\ClientDtos.cs",
+              "RelativeDocumentMoniker": "ControlPanelGeshk\\DTOs\\ClientDtos.cs",
+              "ToolTip": "C:\\Users\\Gio\\source\\repos\\ControlPanelGeshk\\ControlPanelGeshk\\DTOs\\ClientDtos.cs",
+              "RelativeToolTip": "ControlPanelGeshk\\DTOs\\ClientDtos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T16:40:55.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SearchController.cs",
+              "DocumentMoniker": "C:\\Users\\Gio\\source\\repos\\ControlPanelGeshk\\ControlPanelGeshk\\Controllers\\SearchController.cs",
+              "RelativeDocumentMoniker": "ControlPanelGeshk\\Controllers\\SearchController.cs",
+              "ToolTip": "C:\\Users\\Gio\\source\\repos\\ControlPanelGeshk\\ControlPanelGeshk\\Controllers\\SearchController.cs",
+              "RelativeToolTip": "ControlPanelGeshk\\Controllers\\SearchController.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAQwFgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T05:41:29.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuditController.cs",
+              "DocumentMoniker": "C:\\Users\\Gio\\source\\repos\\ControlPanelGeshk\\ControlPanelGeshk\\Controllers\\AuditController.cs",
+              "RelativeDocumentMoniker": "ControlPanelGeshk\\Controllers\\AuditController.cs",
+              "ToolTip": "C:\\Users\\Gio\\source\\repos\\ControlPanelGeshk\\ControlPanelGeshk\\Controllers\\AuditController.cs",
+              "RelativeToolTip": "ControlPanelGeshk\\Controllers\\AuditController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAcwDsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T05:41:02.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ActivitiesController.cs",
+              "DocumentMoniker": "C:\\Users\\Gio\\source\\repos\\ControlPanelGeshk\\ControlPanelGeshk\\Controllers\\ActivitiesController.cs",
+              "RelativeDocumentMoniker": "ControlPanelGeshk\\Controllers\\ActivitiesController.cs",
+              "ToolTip": "C:\\Users\\Gio\\source\\repos\\ControlPanelGeshk\\ControlPanelGeshk\\Controllers\\ActivitiesController.cs",
+              "RelativeToolTip": "ControlPanelGeshk\\Controllers\\ActivitiesController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAQwE0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T05:40:39.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProjectsController.cs",
+              "DocumentMoniker": "C:\\Users\\Gio\\source\\repos\\ControlPanelGeshk\\ControlPanelGeshk\\Controllers\\ProjectsController.cs",
+              "RelativeDocumentMoniker": "ControlPanelGeshk\\Controllers\\ProjectsController.cs",
+              "ToolTip": "C:\\Users\\Gio\\source\\repos\\ControlPanelGeshk\\ControlPanelGeshk\\Controllers\\ProjectsController.cs",
+              "RelativeToolTip": "ControlPanelGeshk\\Controllers\\ProjectsController.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAcwL4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T04:44:16.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProjectDtos.cs",
+              "DocumentMoniker": "C:\\Users\\Gio\\source\\repos\\ControlPanelGeshk\\ControlPanelGeshk\\DTOs\\ProjectDtos.cs",
+              "RelativeDocumentMoniker": "ControlPanelGeshk\\DTOs\\ProjectDtos.cs",
+              "ToolTip": "C:\\Users\\Gio\\source\\repos\\ControlPanelGeshk\\ControlPanelGeshk\\DTOs\\ProjectDtos.cs",
+              "RelativeToolTip": "ControlPanelGeshk\\DTOs\\ProjectDtos.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T16:41:03.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ActivityAuditSearchDtos.cs",
+              "DocumentMoniker": "C:\\Users\\Gio\\source\\repos\\ControlPanelGeshk\\ControlPanelGeshk\\DTOs\\ActivityAuditSearchDtos.cs",
+              "RelativeDocumentMoniker": "ControlPanelGeshk\\DTOs\\ActivityAuditSearchDtos.cs",
+              "ToolTip": "C:\\Users\\Gio\\source\\repos\\ControlPanelGeshk\\ControlPanelGeshk\\DTOs\\ActivityAuditSearchDtos.cs",
+              "RelativeToolTip": "ControlPanelGeshk\\DTOs\\ActivityAuditSearchDtos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T05:40:15.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Quote.cs",
+              "DocumentMoniker": "C:\\Users\\Gio\\source\\repos\\ControlPanelGeshk\\ControlPanelGeshk\\Entities\\Quote.cs",
+              "RelativeDocumentMoniker": "ControlPanelGeshk\\Entities\\Quote.cs",
+              "ToolTip": "C:\\Users\\Gio\\source\\repos\\ControlPanelGeshk\\ControlPanelGeshk\\Entities\\Quote.cs",
+              "RelativeToolTip": "ControlPanelGeshk\\Entities\\Quote.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA4wBQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T05:14:00.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "QuotesController.cs",
+              "DocumentMoniker": "C:\\Users\\Gio\\source\\repos\\ControlPanelGeshk\\ControlPanelGeshk\\Controllers\\QuotesController.cs",
+              "RelativeDocumentMoniker": "ControlPanelGeshk\\Controllers\\QuotesController.cs",
+              "ToolTip": "C:\\Users\\Gio\\source\\repos\\ControlPanelGeshk\\ControlPanelGeshk\\Controllers\\QuotesController.cs",
+              "RelativeToolTip": "ControlPanelGeshk\\Controllers\\QuotesController.cs",
+              "ViewState": "AgIAALkAAAAAAAAAAAAuwPYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T05:01:10.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "QuoteDtos.cs",
+              "DocumentMoniker": "C:\\Users\\Gio\\source\\repos\\ControlPanelGeshk\\ControlPanelGeshk\\DTOs\\QuoteDtos.cs",
+              "RelativeDocumentMoniker": "ControlPanelGeshk\\DTOs\\QuoteDtos.cs",
+              "ToolTip": "C:\\Users\\Gio\\source\\repos\\ControlPanelGeshk\\ControlPanelGeshk\\DTOs\\QuoteDtos.cs",
+              "RelativeToolTip": "ControlPanelGeshk\\DTOs\\QuoteDtos.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAA8wCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T05:00:44.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EconomicsController.cs",
+              "DocumentMoniker": "C:\\Users\\Gio\\source\\repos\\ControlPanelGeshk\\ControlPanelGeshk\\Controllers\\EconomicsController.cs",
+              "RelativeDocumentMoniker": "ControlPanelGeshk\\Controllers\\EconomicsController.cs",
+              "ToolTip": "C:\\Users\\Gio\\source\\repos\\ControlPanelGeshk\\ControlPanelGeshk\\Controllers\\EconomicsController.cs",
+              "RelativeToolTip": "ControlPanelGeshk\\Controllers\\EconomicsController.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAawGEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T04:54:50.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EconomicsDtos.cs",
+              "DocumentMoniker": "C:\\Users\\Gio\\source\\repos\\ControlPanelGeshk\\ControlPanelGeshk\\DTOs\\EconomicsDtos.cs",
+              "RelativeDocumentMoniker": "ControlPanelGeshk\\DTOs\\EconomicsDtos.cs",
+              "ToolTip": "C:\\Users\\Gio\\source\\repos\\ControlPanelGeshk\\ControlPanelGeshk\\DTOs\\EconomicsDtos.cs",
+              "RelativeToolTip": "ControlPanelGeshk\\DTOs\\EconomicsDtos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T04:54:33.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "NotesController.cs",
+              "DocumentMoniker": "C:\\Users\\Gio\\source\\repos\\ControlPanelGeshk\\ControlPanelGeshk\\Controllers\\NotesController.cs",
+              "RelativeDocumentMoniker": "ControlPanelGeshk\\Controllers\\NotesController.cs",
+              "ToolTip": "C:\\Users\\Gio\\source\\repos\\ControlPanelGeshk\\ControlPanelGeshk\\Controllers\\NotesController.cs",
+              "RelativeToolTip": "ControlPanelGeshk\\Controllers\\NotesController.cs",
+              "ViewState": "AgIAAMoAAAAAAAAAAAAcwO8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T04:39:26.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IssuesController.cs",
+              "DocumentMoniker": "C:\\Users\\Gio\\source\\repos\\ControlPanelGeshk\\ControlPanelGeshk\\Controllers\\IssuesController.cs",
+              "RelativeDocumentMoniker": "ControlPanelGeshk\\Controllers\\IssuesController.cs",
+              "ToolTip": "C:\\Users\\Gio\\source\\repos\\ControlPanelGeshk\\ControlPanelGeshk\\Controllers\\IssuesController.cs",
+              "RelativeToolTip": "ControlPanelGeshk\\Controllers\\IssuesController.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAAADkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T04:34:37.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CredentialsController.cs",
+              "DocumentMoniker": "C:\\Users\\Gio\\source\\repos\\ControlPanelGeshk\\ControlPanelGeshk\\Controllers\\CredentialsController.cs",
+              "RelativeDocumentMoniker": "ControlPanelGeshk\\Controllers\\CredentialsController.cs",
+              "ToolTip": "C:\\Users\\Gio\\source\\repos\\ControlPanelGeshk\\ControlPanelGeshk\\Controllers\\CredentialsController.cs",
+              "RelativeToolTip": "ControlPanelGeshk\\Controllers\\CredentialsController.cs",
+              "ViewState": "AgIAAKEAAAAAAAAAAAAqwLUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T04:28:07.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FinanceController.cs",
+              "DocumentMoniker": "C:\\Users\\Gio\\source\\repos\\ControlPanelGeshk\\ControlPanelGeshk\\Controllers\\FinanceController.cs",
+              "RelativeDocumentMoniker": "ControlPanelGeshk\\Controllers\\FinanceController.cs",
+              "ToolTip": "C:\\Users\\Gio\\source\\repos\\ControlPanelGeshk\\ControlPanelGeshk\\Controllers\\FinanceController.cs",
+              "RelativeToolTip": "ControlPanelGeshk\\Controllers\\FinanceController.cs",
+              "ViewState": "AgIAAOYAAAAAAAAAAAAmwA0BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T04:18:14.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FinanceDtos.cs",
+              "DocumentMoniker": "C:\\Users\\Gio\\source\\repos\\ControlPanelGeshk\\ControlPanelGeshk\\DTOs\\FinanceDtos.cs",
+              "RelativeDocumentMoniker": "ControlPanelGeshk\\DTOs\\FinanceDtos.cs",
+              "ToolTip": "C:\\Users\\Gio\\source\\repos\\ControlPanelGeshk\\ControlPanelGeshk\\DTOs\\FinanceDtos.cs",
+              "RelativeToolTip": "ControlPanelGeshk\\DTOs\\FinanceDtos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T04:17:35.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CredentialDtos.cs",
+              "DocumentMoniker": "C:\\Users\\Gio\\source\\repos\\ControlPanelGeshk\\ControlPanelGeshk\\DTOs\\CredentialDtos.cs",
+              "RelativeDocumentMoniker": "ControlPanelGeshk\\DTOs\\CredentialDtos.cs",
+              "ToolTip": "C:\\Users\\Gio\\source\\repos\\ControlPanelGeshk\\ControlPanelGeshk\\DTOs\\CredentialDtos.cs",
+              "RelativeToolTip": "ControlPanelGeshk\\DTOs\\CredentialDtos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T19:58:26.176Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

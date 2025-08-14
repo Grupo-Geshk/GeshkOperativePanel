@@ -1,0 +1,6 @@
+@ControlPanelGeshk_HostAddress = http://localhost:5108
+
+GET {{ControlPanelGeshk_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
