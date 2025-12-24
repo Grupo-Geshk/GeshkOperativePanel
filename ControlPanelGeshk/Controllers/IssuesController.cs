@@ -217,7 +217,12 @@ public class IssuesController : ControllerBase
     { "Open", "In Progress", "Resolved", "Won't Fix" };
 
     private static string NormalizeSeverity(string s)
-        => string.IsNullOrWhiteSpace(s) ? "" : char.ToUpperInvariant(s.Trim()[0]) + s.Trim().ToLowerInvariant()[1..];
+    {
+        if (string.IsNullOrWhiteSpace(s)) return "";
+        var trimmed = s.Trim();
+        if (trimmed.Length == 1) return char.ToUpperInvariant(trimmed[0]).ToString();
+        return char.ToUpperInvariant(trimmed[0]) + trimmed.ToLowerInvariant()[1..];
+    }
 
     private static string NormalizeStatus(string s)
         => (s ?? "").Trim().Replace("’", "'"); // acepta apóstrofo curvo

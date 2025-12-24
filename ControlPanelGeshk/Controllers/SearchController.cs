@@ -61,12 +61,12 @@ public class SearchController : ControllerBase
         // Próximas reuniones que hagan match
         var nowUtc = DateTimeOffset.UtcNow;
         var meetings = await _db.Meetings.AsNoTracking()
-            .Include(m => m.Project)
+            .Include(m => m.Project!)
             .ThenInclude(p => p.Client)
             .Where(m => m.ScheduledAt >= nowUtc &&
                         (m.Notes != null && m.Notes.ToLower().Contains(s) ||
                          (m.Project != null && m.Project.Name.ToLower().Contains(s)) ||
-                         (m.Project != null && m.Project.Client.BusinessName.ToLower().Contains(s))))
+                         (m.Project != null && m.Project.Client != null && m.Project.Client.BusinessName.ToLower().Contains(s))))
             .OrderBy(m => m.ScheduledAt)
             .Take(10)
             .Select(m => new SearchItemDto(

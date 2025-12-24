@@ -13,7 +13,6 @@ public class Quote : BaseEntity
     public decimal? OneOffPrice { get; set; }
     public decimal? MonthlyFee { get; set; }
     public Guid CreatedBy { get; set; }
-    public DateTimeOffset? UpdatedAt { get; set; }
     public ICollection<QuoteItem> Items { get; set; } = new List<QuoteItem>();
 }
 public class QuoteItem : BaseEntity

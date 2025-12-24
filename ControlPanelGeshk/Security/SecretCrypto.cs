@@ -30,7 +30,7 @@ public class AesGcmSecretCrypto : ISecretCrypto
         var cipher = new byte[plain.Length];
         var tag = new byte[16];
 
-        using var aes = new AesGcm(_key);
+        using var aes = new AesGcm(_key, tag.Length);
         aes.Encrypt(nonce, plain, cipher, tag);
 
         var payload = new byte[nonce.Length + cipher.Length + tag.Length];
@@ -53,7 +53,7 @@ public class AesGcmSecretCrypto : ISecretCrypto
         Buffer.BlockCopy(payload, nonce.Length + cipher.Length, tag, 0, tag.Length);
 
         var plain = new byte[cipher.Length];
-        using var aes = new AesGcm(_key);
+        using var aes = new AesGcm(_key, tag.Length);
         aes.Decrypt(nonce, cipher, tag, plain);
 
         return Encoding.UTF8.GetString(plain);

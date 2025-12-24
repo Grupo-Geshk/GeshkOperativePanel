@@ -14,5 +14,4 @@ public class Credential : BaseEntity
     public int Version { get; set; } = 1;
     public Guid CreatedBy { get; set; }
     public Guid? UpdatedBy { get; set; }
-    public DateTimeOffset? UpdatedAt { get; set; }
 }
